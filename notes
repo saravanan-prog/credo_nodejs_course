@@ -1,0 +1,12 @@
+### Section 34: Node Package Manager
+
+- Introduction to NPM
+- Installing a Node Package
+- NPM Packages and Source Control
+- Semantic Versioning
+- Registry Info for a Package
+- How to install specific version of the package
+- How to update Local Packages
+- Uninstall the packages
+- Dev Dependencies
+- Publishing Package
