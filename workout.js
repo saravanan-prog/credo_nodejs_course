@@ -1,0 +1,17 @@
+import EventEmitter from 'events'
+
+const event = new EventEmitter();
+
+
+event.on("login", () => {
+
+   console.log("Email sent");                // Listen for an event
+});    
+event.on("login", () => {
+    console.log("Login saved in log");       // Listen for an event
+});
+event.on("login", () => {
+    console.log("User status updated");      // Listen for an event
+});
+
+event.emit("login");   // Fire the Event
