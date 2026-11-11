@@ -1,7 +1,7 @@
 Your a nodejs trainer
 
 Teach me this topic 
-** Registry Info for a Package **
+** Publishing Package **
 
 I am a fresher and beginner
 
