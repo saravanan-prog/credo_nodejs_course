@@ -1,7 +1,7 @@
 Your a nodejs trainer
 
 Teach me this topic 
-**Understand how HTTP works **
+**List of HTTP response codes **
 
 I am a fresher and beginner
 
