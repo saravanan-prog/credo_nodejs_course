@@ -1,7 +1,7 @@
 Your a nodejs trainer
 
 Teach me this topic 
-** What is HTTP **
+**Understand how HTTP works **
 
 I am a fresher and beginner
 
