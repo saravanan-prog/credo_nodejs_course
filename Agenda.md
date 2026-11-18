@@ -2,7 +2,7 @@
 
 ## Phase 1 – Backend Development
 
-### Section 32: Getting Started with Node.js
+### Section 1: Getting Started with Node.js
 
 - What is Node Preview
 - Node Architecture Preview
@@ -10,7 +10,7 @@
 - Installing Node Preview
 - Your First Node Program
 
-### Section 33: Understanding Node Module System
+### Section 2: Understanding Node Module System
 
 - Introduction
 - Creating a Module
@@ -23,7 +23,7 @@
 - Events Module
 - HTTP Module
 
-### Section 34: Node Package Manager
+### Section 3: Node Package Manager
 
 - Introduction to NPM
 - Installing a Node Package
@@ -36,7 +36,7 @@
 - Dev Dependencies
 - Publishing Package
 
-### Section 35: Asynchronous Programming
+### Section 4: Asynchronous Programming
 
 - What is Asynchronous Programming in JavaScript?
 - Synchronous vs Asynchronous
@@ -47,7 +47,7 @@
 - Promise Chaining
 - Async Await
 
-### Section 36: REST API & HTTP
+### Section 5: REST API & HTTP
 
 - What is HTTP
 - Understand how HTTP works?
@@ -57,7 +57,7 @@
 - Processing Form Data
 - Sending response back to Server
 
-### Section 37: Understanding Express JS
+### Section 6: Understanding Express JS
 
 - What is Express JS?
 - Installing Express JS
@@ -70,7 +70,7 @@
 - Input Validation
 - Handling HTTP Method - GET, POST, PUT & DELETE using Express
 
-### Section 38: Node.js, Express – With AI Integration
+### Section 7: Node.js, Express – With AI Integration
 
 - Help debug routing issues or token verification using ChatGPT.
 - Explain REST patterns, middleware chaining, or error handling using AI.
@@ -80,7 +80,7 @@
 
 ## Related Backend Topics
 
-### Section 39: MongoDB & Mongoose
+### Section 8: MongoDB & Mongoose
 
 - What is MongoDB
 - MongoDB Advantages
@@ -97,14 +97,14 @@
 - Pagination
 - CRUD Operations in MongoDB using Mongoose and Express
 
-### Section 40: Data Validation in MongoDB
+### Section 9: Data Validation in MongoDB
 
 - Understanding Validation in MongoDB
 - Built-in Validators
 - Custom Validators
 - Validation Errors
 
-### Section 41: Authentication and Authorization
+### Section 10: Authentication and Authorization
 
 - Introduction
 - User Model
@@ -118,13 +118,13 @@
 - Protecting Routes
 - Role-based Authorization
 
-### Section 42: Handling Errors
+### Section 11: Handling Errors
 
 - Introduction
 - Express Async Errors
 - Logging Errors
 
-### Section 43: Deployment
+### Section 12: Deployment
 
 - Preparing the App for Production
 - Adding the Code to a Git Repository
