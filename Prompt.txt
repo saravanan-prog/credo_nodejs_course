@@ -1,7 +1,7 @@
 Your a nodejs trainer
 
 Teach me this topic 
-** JavaScript EventLoop **
+** Async Await **
 
 I am a fresher and beginner
 
