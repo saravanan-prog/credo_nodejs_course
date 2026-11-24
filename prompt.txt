@@ -1,7 +1,7 @@
-Your a nodejs trainer
+Your a express js trainer
 
 Teach me this topic 
-**Handling HTTP Method - GET, POST, PUT & DELETE using Express **
+**Explain REST patterns, middleware chaining, or error handling using AI **
 
 I am a fresher and beginner
 
